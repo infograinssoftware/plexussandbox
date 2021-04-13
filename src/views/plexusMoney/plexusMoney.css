@@ -1,0 +1,269 @@
+.plexusMoney_bg_Style{
+    background-color: rgb(17, 21, 36);
+}
+.plexusMoney_top_right_headder{
+    display: flex;
+    margin-left: auto;
+    flex-flow: wrap;
+}
+
+.plexusMoney_logoImg_style{
+    height: 42px;
+}
+
+.plexusMoney_logoImg_style:hover{
+    height: 40px;
+}
+
+.plexusMoney_header_div_style{
+    display: flex;
+    align-items: center;
+}
+
+.plexusMoney_navLink_style{
+    display: block;
+    -webkit-transition: color 350ms ease, -webkit-transform 350ms ease;
+    transition: color 350ms ease, -webkit-transform 350ms ease;
+    transition: color 350ms ease, transform 350ms ease;
+    transition: color 350ms ease, transform 350ms ease, -webkit-transform 350ms ease;
+    font-family: Montserrat, sans-serif;
+    color: #fff !important;
+    /* line-height: 1.111em; */
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.section_one{
+    justify-content: center;
+}
+
+.section_one .plexusMoney_home_hero_style{
+    padding-top: 78px;
+    padding-bottom: 10px;
+    /* cursor: none; */
+}
+
+.plexusMoney_container_medium{
+    max-width: 699px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 24px;
+    padding-left: 24px;
+}
+
+.plexusMoney_home_hero_v1{
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.plexusMoney_heading_light{
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 400;
+    font-family: Codeink, sans-serif;
+}
+
+.section_one .plexusMoney_pTag_light{
+    margin-bottom: 40px;
+    font-family: Montserrat, sans-serif;
+    color: #e1e1e7;
+    font-size: 18px;
+}
+
+.section_one .plexusMoney_pTag_light > a{
+    color: #e1e1e7;
+    text-decoration: underline;
+}
+
+.plexusMoney_LPWrapper_btn_style{
+    padding: 20px 50px;
+    border-radius: 8px;
+    background-color: #3385d2;
+    -webkit-transition: background-color 350ms ease, -webkit-transform 350ms ease;
+    transition: background-color 350ms ease, -webkit-transform 350ms ease;
+    transition: transform 350ms ease, background-color 350ms ease;
+    transition: transform 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
+    font-family: Montserrat, sans-serif;
+    color: #fff;
+    line-height: 20px;
+    font-weight: 700;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.plexusMoney_LPWrapper_btn_style:hover{
+    background-color: #0e6cc3;
+    opacity: 1;
+    -webkit-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+    color: #fff;
+}
+
+.plexusMoney_github_btn_style{
+    padding: 20px 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: transparent;
+    -webkit-transition: border-color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
+    transition: border-color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
+    transition: transform 350ms ease, border-color 350ms ease, background-color 350ms ease;
+    transition: transform 350ms ease, border-color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
+    font-family: Montserrat, sans-serif;
+    color: #fff;
+    line-height: 20px;
+    text-align: center;
+}
+
+.plexusMoney_github_btn_style:hover{
+    border-color: #2d21b2;
+    background-color: #3385d2;
+    opacity: 1;
+    -webkit-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+    color: #fff;
+}
+
+.section_Two{
+    max-width: 1244px;
+}
+
+.plexusMoney_Preview_img_style{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.section_Three{
+    justify-content: center;
+}
+
+.section_Three .plexusMoney_home_hero_style{
+    padding-top: 78px;
+    padding-bottom: 10px;
+    /* cursor: none; */
+}
+
+.section_Three .plexusMoney_heading_light{
+    color: #ffffff;
+    font-size: 42px;
+    font-weight: 400;
+    font-family: Codeink, sans-serif;
+}
+
+.section_Three .plexusMoney_pTag_light{
+    margin-bottom: 40px;
+    font-family: Montserrat, sans-serif;
+    color: #e1e1e7;
+    font-size: 18px;
+}
+
+.section_Four{
+    justify-content: center;
+}
+
+.section_Four .plexusMoney_img_Style{
+    margin-bottom: 23px !important;
+    display: block;
+    margin: auto;
+}
+
+.plexusMoney_h3_Style{
+    margin-top: 0px;
+    margin-bottom: 18px;
+    color: #fff;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.plexusMoney_paragraph_stay{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+
+
+.section_Five .plexusMoney_wildWest_Style{
+    padding-bottom: 100px;
+    background-image: url(../../assets/Teal-Blur-Low-Opac.png);
+    /* background-image: url(https://assets.website-files.com/6019d33…/601b0bf…_Teal-Blur-Low-Opac.png); */
+    background-position: 100% 0%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* cursor: none; */
+}
+
+.advantage_bottom_wrapper{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-image: url(../../assets//Grid-v2.png);
+    background-position: 20% 40%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.advantage_bottom_left {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 53%;
+    height: 598px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.header_white_background_large{
+    width: 100%;
+    font-family: Codeink, sans-serif;
+    color: #7dc7e9;
+    font-size: 120px;
+    font-weight: 400;
+}
+
+.advantage_bottom_right{
+    max-width: 42%;
+}
+
+.heading_5_style{
+    margin-left: 0px;
+    color: #111524;
+    font-family: Codeink, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 18px;
+    font-size: 42px;
+    line-height: 1.19em;
+    font-weight: 700;
+}
+
+.section_Six .plexusMoney_heading_light{
+    
+    font-size: 42px;
+    font-weight: 400;
+    font-family: Codeink, sans-serif;
+    color: #7dc7e9;
+}
+
+.section_Six .plexusMoney_home_hero_v1{
+    margin-bottom: 60px;
+    text-align: left;
+}
